@@ -5,3 +5,5 @@
 - [Bambu PLA Basic for DnD Minis](orcaslicer/bambulab/p1p/orcasclicer_bambulab_pla-basic_for-dnd-minis.json)
 - [DnD miniatures (0.2mm Nozzle)](orcaslicer/bambulab/p1p/orcasclicer_bambulab_p1p_dnd-minis_0.2mm.json)
 
+# STL Files
+- [DnD minatures support torture test](stl/support-torture-test-for-dnd-minis.stl)
