@@ -2,4 +2,6 @@
 
 ## [OrcaSlicer 1.8.0-beta1](https://github.com/SoftFever/OrcaSlicer)
 ### [Bambu Lab P1P](https://us.store.bambulab.com/products/p1p)
-- [D&amp;D miniatures (Bambu PLA Basic + 0.2mm Nozzle)](orcaslicer/bambu/p1p/dnd-minis)
+- [Bambu PLA Basic for DnD Minis](orcaslicer/bambulab/p1p/orcasclicer_bambulab_pla-basic_for-dnd-minis.json)
+- [DnD miniatures (0.2mm Nozzle)](orcaslicer/bambulab/p1p/orcasclicer_bambulab_p1p_dnd-minis_0.2mm.json)
+
